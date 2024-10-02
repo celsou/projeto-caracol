@@ -3,6 +3,10 @@
 ### Sobre o Projeto Caracol
 O Projeto Caracol foi um projeto desenvolvido em 2020 na [ETEC de Itapeva/SP](https://etecitapeva.cps.sp.gov.br), pelo então aluno de eletrotécnica Celso Dell Anhol Ubaldo, visando integrar uma Planta Didática Smar ao sistema supervisório ScadaBR. Este repositório contém o material elaborado durante o Projeto sobre o uso da Planta e do ScadaBR.
 
+### Download
+Você pode baixar os arquivos individualmente neste repositório do GitHub, [baixar o arquivo ZIP com o material escrito e programas](https://github.com/celsou/projeto-caracol/releases/download/projeto-caracol/Projeto_Caracol-apenas_arquivos.zip) (cerca de 4 MB), ou [baixar o arquivo ZIP completo](https://github.com/celsou/projeto-caracol/releases/download/projeto-caracol/Projeto_Caracol-completo.zip), que também contém os vídeos (cerca de 2 GB).
+
+**Nota:** Todos os vídeos incluídos no arquivo ZIP completo também estão disponíveis on-line no [Canal do YouTube](https://m.youtube.com/@ProjetoCaracolOficial/) do Projeto Caracol.
 
 ### Canal no YouTube
 O material em vídeo do Projeto Caracol também se encontra no YouTube para visualização. Acesse o [canal do Projeto Caracol](https://m.youtube.com/@ProjetoCaracolOficial/).
