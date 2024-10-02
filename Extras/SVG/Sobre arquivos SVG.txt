@@ -1,0 +1,6 @@
+Arquivos SVG são um padrão aberto de imagens
+vetoriais. Estes arquivos podem ser facilmente
+editados em um editor como o Inkscape, por exem-
+plo. Lembrando que estas imagens também estão
+licenciadas sob Creative Commons Atribuição
+NãoComercial 4.0 Internacional.

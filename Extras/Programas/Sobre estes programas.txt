@@ -1,0 +1,4 @@
+Os programas incluídos nesta pasta estão licenciados
+sob a licença GNU GPL 2. Uma cópia desta licença e o
+código-fonte destes programas podem ser encontrados
+no arquivo "Código-fonte.zip"
