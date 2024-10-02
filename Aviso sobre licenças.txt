@@ -1,0 +1,24 @@
+========================= Projeto Caracol, 2020 ===========================
+
+Todos os arquivos do Projeto Caracol aqui incluídos, exceto programas 
+em formato ".exe" e onde indicado em contrário, estão licenciados sob
+a licença Creative Commons Atribuição-NãoComercial 4.0 Internacional. 
+Você pode usar,  modificar e redistribuir esses arquivos livremente
+para qualquer   propósito não comercial, nos termos da referida licença.
+Na medida do   possível, será incluído em cada arquivo uma breve menção
+sobre sob qual licença você pode utilizá-lo.
+                                                                         
+Note que os softwares, sites e arquivos de terceiros, mostrados nos ví- 
+deos, "linkados" em arquivos ou aqui mencionados de qualquer outra for- 
+ma não têm qualquer relação com este  projeto e  são propriedade  de
+seus respectivos autores. A intenção de citá-los aqui é puramente didá- 
+tica e não visa de forma alguma ferir os direitos autorais de quem quer 
+que seja. Note também que "Projeto Caracol" não é uma marca registrada. 
+                                                                         
+Ao realizar a atribuição que a licença Creative Commons pede, você pode
+(se conveniente) incluir um link para o download destes arquivos na íntegra,
+e dar créditos ao "Projeto Caracol" e a Etec Dr. Demétrio Azevedo Júnior,
+de Itapeva/SP. Uma cópia da licença Creative Commons Atribuição-NãoComercial
+4.0 Internacional pode ser obtida em:
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt

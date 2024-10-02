@@ -1,0 +1,29 @@
+<!-- Livre para uso sob a licença MIT  -->
+
+<!-- Botão para executar scripts, usando o estilo do navegador  (parte 1) -->
+<button onclick="runScripts()">Executar Scripts</button>
+
+<!-- O mesmo botão, mas no estilo do ScadaBR (parte 2) -->
+<input type="button" onclick="runScripts()" value="Executar Scripts">
+
+<!-- Qualquer que seja o estilo escolhido acima, adicione as linhas abaixo (parte 3) -->
+<script>
+	function runScripts() {
+		// Aqui você deve adicionar o XID real dos seus scripts
+		var scripts = [
+			"SC_02846",
+			"SC_02565",
+			"SC_24246",
+		];
+		// Mantenha como 0
+		var tempo = 0;
+		// Defina o tempo, em milissegundos, entre a execução de 2 scripts consecutivos
+		var tempo_entre_scripts = 500;
+		for (i in scripts) {
+			setTimeout( function() {
+				mango.view.executeScript(scripts[i]);
+			}, tempo);
+			tempo += tempo_entre_scripts;
+		}
+	}
+</script>

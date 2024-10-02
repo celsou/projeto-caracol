@@ -1,0 +1,4 @@
+Estes 2 scripts servem para ampliar as funcionalidades do ScadaBR,
+permitindo que o mesmo consiga criar uma tabela listando os usuários
+online atualmente no sistema. Para saber como utilizá-los, consulte
+o vídeo extra "Tabela de usuários online no ScadaBR".

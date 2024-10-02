@@ -1,0 +1,38 @@
+<!-- Livre para uso sob a licença MIT  -->
+
+<button onclick='readZombie()'>Teste</button>
+
+<!-- Use este código para criar as funções writeZombie() e
+     readZombie() para controlar seus datapoints zumbi. -->
+
+<div style='height: 20px; width: 20px; overflow: hidden;'>
+<script>
+	function writeZombie(idZombie, value) {
+		var concat = "zumbi" + idZombie;
+		try {
+			var zombie = document.getElementById(concat);
+			var changeEvent = new Event('change');
+			zombie.value = value;
+			zombie.dispatchEvent(changeEvent);
+			// Implementação de delay
+			var atual = new Date().getTime();
+			var anterior = new Date().getTime();
+			while ((atual - anterior) < 100) {
+				atual = new Date().getTime();
+			}
+		} catch {
+			alert("Elemento não encontrado. Verifique as configurações do 'zumbi'");
+		}
+	}
+
+	function readZombie(idZombie) {
+		var concat = "zumbi" + idZombie;
+		try {
+			var zombie = document.getElementById(concat);
+			return zombie.value;
+		} catch {
+			alert("Elemento não encontrado. Verifique as configurações do 'zumbi'");
+		}
+	}
+</script>
+</div>

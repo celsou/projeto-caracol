@@ -1,0 +1,19 @@
+<!-- Livre para uso sob a licença MIT  -->
+
+
+<!-- As linhas abaixo criam botões para gerenciar alarmes (parte 1) -->
+
+<!-- Reconhecer todos os alarmes -->
+<input type="button" value="Reconhecer todos os alarmes" onclick="MiscDwr.acknowledgeAllPendingEvents()" >
+<!-- Silenciar todos os alarmes -->
+<input type="button" value="Silenciar todos os alarmes" onclick="MiscDwr.silenceAll()" >
+
+
+
+<!-- As linhas abaixo criam imagens clicáveis para gerenciar alarmes,-->
+<!-- seguindo o padrão usado na "Página de Alarmes" do ScadaBR (parte 2) -->
+
+<!-- Reconhecer todos os alarmes -->	
+<img src="/ScadaBR/images/tick.png" title="Reconhecer todos os alarmes" style="cursor: pointer; display: inline;" onclick="MiscDwr.acknowledgeAllPendingEvents()" ></img>
+<!-- Silenciar todos os alarmes -->
+<img src="/ScadaBR/images/sound_mute.png" title="Silenciar todos os alarmes" style="cursor: pointer; display: inline;" onclick="MiscDwr.silenceAll()" ></img>

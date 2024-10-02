@@ -1,0 +1,44 @@
+=================== Projeto Caracol, 2020 ===================
+
+Deixo aqui meus agradecimentos a todos que de algum modo me
+ajudaram para que este projeto se tornasse possível.
+
+À escola e aos professores do curso de Eletrotécnica, que
+possibilitaram que esse projeto pudesse ser realizado:
+
+- Antonio Sandro Matos
+- Claudio Camargo de Melo
+- Edgar de Jesus Endo
+- Emanuel Pereira Alves
+- Fabricio Pimentel Gonçalves
+- Roberto Maligeski Lemes
+- E outros...
+
+Aos criadores do ScadaBR e aos usuários do fórum do ScadaBR,
+sem os quais seria impossível ter implementado um sistema
+supervisório na Planta Didática.
+
+À lan house Play Lan, onde eu consegui a doação de uma sucata
+de placa-mãe. Sem essa doação, teria sido impossível reparar
+a bateria do CLP da Planta Didática.
+
+Aos alunos que trabalharam anteriormente com a Planta, pelas
+manutenções realizadas na mesma e por terem conseguido os
+manuais e arquivos específicos necessários para compreender
+seu funcionamento. Mesmo sem os ter conhecido, o trabalho
+deles foi de grande auxílio para mim:
+
+- Abinadabe Carvalho Silva
+- Atos Alexandre Lopes Leite
+- Felipe dos Santos Mota
+- Josué Carvalho Santos
+- Júlio Cezar de Carvalho
+- William Alexandre do Nascimento
+
+E ao meu avô, falecido este ano, que sempre foi uma grande
+inspiração para mim.
+
+Este projeto é dedicado especialmente ao Sagrado Coração de
+Jesus, cujo amor me sustentou até agora, e ao Imaculado Co-
+ração de Maria, que muito me favoreceu com sua poderosa in-
+tercessão. Deus seja louvado eternamente. Amém.
